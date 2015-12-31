@@ -1958,7 +1958,7 @@ body {
 
 /* line 20, ../sass/style.scss */
 .hero {
-  background: url("/images/hero.jpg");
+  background: url("../images/hero.jpg");
   background-size: cover;
   width: 100%;
   margin: 0 auto;
